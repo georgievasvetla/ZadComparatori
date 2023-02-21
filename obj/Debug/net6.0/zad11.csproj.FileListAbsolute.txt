@@ -1,0 +1,15 @@
+C:\Users\Svg\source\repos\OPP11d2grupa\zad11\bin\Debug\net6.0\zad11.exe
+C:\Users\Svg\source\repos\OPP11d2grupa\zad11\bin\Debug\net6.0\zad11.deps.json
+C:\Users\Svg\source\repos\OPP11d2grupa\zad11\bin\Debug\net6.0\zad11.runtimeconfig.json
+C:\Users\Svg\source\repos\OPP11d2grupa\zad11\bin\Debug\net6.0\zad11.dll
+C:\Users\Svg\source\repos\OPP11d2grupa\zad11\bin\Debug\net6.0\zad11.pdb
+C:\Users\Svg\source\repos\OPP11d2grupa\zad11\obj\Debug\net6.0\zad11.csproj.AssemblyReference.cache
+C:\Users\Svg\source\repos\OPP11d2grupa\zad11\obj\Debug\net6.0\zad11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Svg\source\repos\OPP11d2grupa\zad11\obj\Debug\net6.0\zad11.AssemblyInfoInputs.cache
+C:\Users\Svg\source\repos\OPP11d2grupa\zad11\obj\Debug\net6.0\zad11.AssemblyInfo.cs
+C:\Users\Svg\source\repos\OPP11d2grupa\zad11\obj\Debug\net6.0\zad11.csproj.CoreCompileInputs.cache
+C:\Users\Svg\source\repos\OPP11d2grupa\zad11\obj\Debug\net6.0\zad11.dll
+C:\Users\Svg\source\repos\OPP11d2grupa\zad11\obj\Debug\net6.0\refint\zad11.dll
+C:\Users\Svg\source\repos\OPP11d2grupa\zad11\obj\Debug\net6.0\zad11.pdb
+C:\Users\Svg\source\repos\OPP11d2grupa\zad11\obj\Debug\net6.0\zad11.genruntimeconfig.cache
+C:\Users\Svg\source\repos\OPP11d2grupa\zad11\obj\Debug\net6.0\ref\zad11.dll
