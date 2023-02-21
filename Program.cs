@@ -18,6 +18,11 @@ namespace zad11
             };
             book.Sort();
             book.ForEach(x => Console.WriteLine(x.Year));
+            Console.WriteLine(string.Join(" ",book.Select(x => x.Year)));
+            var comperer = new BookComparatot();
+            book.Sort(comperer);
+            book.ForEach(x => Console.WriteLine(x.Title));
+            Console.WriteLine(string.Join(" ", book.Select(x => x.Title)));
 
         }
     }
